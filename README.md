@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alp /ælp/ </h1>
 
-I'm a T-shaped software engineer (with a M.Sc degree) specialized on .NET, C# with DevOps, React, Angular, TypeScript experience.
+I'm a T-shaped software engineer (with a M.Sc degree) specialized in .NET, C# with some React, Angular, TypeScript experience with a DevOps mindset.
 
 My goal and motivation are to work with the best of my skills for getting our(my) project to reach its goals. I am passionate about creating software and probably won’t stop crafting things. I love to see my output being used by other people, and it is completing our goals one by one. I always try to put my best effort to reach the desired quality for any work in our remaining time. In any written material (code, document, communication), I always try to leave a good, understandable output for anyone that will access my output later. If each team of employees achieves the same quality and improves each other, the addition or removal of employees will not affect the project's health. I believe that success is in teamwork and not giving up desired qualities.
 
 I always try/want to be (stay as) an innovative and target-driven engineer. I seek optimal and faster solutions, better quality, follow best practices not just in my career but also in my life. I look for new challenges, goals, responsibilities that can keep me active and fresh in my life. While working with my colleagues, I always try to move/develop/focus together because there can’t be only a single human behind any significant successes.
+
+Website:
+https://www.alpcoker.com
 
 ## 🔨 Skills ( w/ years of experience)
 
@@ -14,7 +17,7 @@ I always try/want to be (stay as) an innovative and target-driven engineer. I se
 ![javascript](https://img.shields.io/badge/JavaScript_7-d5bd00?logo=JavaScript&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript_3-3178c6?logo=typeScript&logoColor=white)
 ![python](https://img.shields.io/badge/Python_2-c49e29.svg?logo=python&logoColor=white)
-![golang](https://img.shields.io/badge/Golang_1-7dc8d4.svg?logo=go&logoColor=white)
+![golang](https://img.shields.io/badge/Golang_1-3ca6b8.svg?logo=go&logoColor=white)
 ![kotlin](https://img.shields.io/badge/Kotlin_1-912bc5?logo=kotlin&logoColor=white)
 ![java](https://img.shields.io/badge/Java_1-be272b?logo=java&logoColor=white)
 ![r](https://img.shields.io/badge/R_1-3265b5?logo=r&logoColor=white)
@@ -29,7 +32,7 @@ I always try/want to be (stay as) an innovative and target-driven engineer. I se
 ![wpf](https://img.shields.io/badge/WPF_4-2e81bc?logo=windows&logoColor=white)
 ![windows-forms](https://img.shields.io/badge/Windows_Forms_3-2e81bc?logo=windows&logoColor=white)
 ![spring-boot](https://img.shields.io/badge/Spring_Boot_1-6db33f?logo=spring&logoColor=white)
-![hadoop](https://img.shields.io/badge/Hadoop_1-f0ef20?logo=apache-hadoop&logoColor=white)
+![hadoop](https://img.shields.io/badge/Hadoop_1-a39103?logo=apache-hadoop&logoColor=white)
 ![spark](https://img.shields.io/badge/Spark_1-cd5725?logo=apache-spark&logoColor=white)
 ![html](https://img.shields.io/badge/HTML_8-e44d26.svg?logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS_5-306db0.svg?logo=css3&logoColor=white)
@@ -80,7 +83,7 @@ I always try/want to be (stay as) an innovative and target-driven engineer. I se
 ![vs-code](https://img.shields.io/badge/VS_Code_3-007acc?&logo=visual-studio-code&logoColor=white)
 ![mint](https://img.shields.io/badge/Linux_Mint_10-87cf3e?logo=linux-mint&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_19_-0077d6?&logo=windows&logoColor=white)
-![mac](https://img.shields.io/badge/macOS_1-ffffff?&logo=apple&logoColor=black)
+![mac](https://img.shields.io/badge/macOS_1-000000?&logo=apple&logoColor=white)
 ![visual-studio](https://img.shields.io/badge/Visual_Studio_10-8857c3?&logo=visual-studio&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman_5-ed6b3d?logo=postman&logoColor=white)
 
