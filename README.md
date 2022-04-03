@@ -9,6 +9,9 @@ I always try/want to be (stay as) an innovative and target-driven engineer. I se
 Website:
 https://www.alpcoker.com
 
+Resume:
+https://www.alpcoker.com/Alp_Coker-Resume.pdf
+
 ## 🔨 Skills ( w/ years of experience)
 
 ### Languages
