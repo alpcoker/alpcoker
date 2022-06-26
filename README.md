@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alp /ælp/ </h1>
 
-I'm a T-shaped software engineer (with a M.Sc degree) specialized in .NET, C# with some React, Angular, TypeScript experience with a DevOps mindset.
+I’m a software and technology enthusiast who loves to be in the center of creating software that is providing value for humanity or makes companies make great profits or makes them efficient. I identify myself as a problem solver who is not a specific tech fanatic. I apply the necessary solution where necessary. I have the most experience as a full-stack engineer who is specialized in backend and infrastructure.
 
-My goal and motivation are to work with the best of my skills for getting our(my) project to reach its goals. I am passionate about creating software and probably won’t stop crafting things. I love to see my output being used by other people, and it is completing our goals one by one. I always try to put my best effort to reach the desired quality for any work in our remaining time. In any written material (code, document, communication), I always try to leave a good, understandable output for anyone that will access my output later. If each team of employees achieves the same quality and improves each other, the addition or removal of employees will not affect the project's health. I believe that success is in teamwork and not giving up desired qualities.
+I have twelve years of experience and have worked for six companies from start-ups to big enterprise companies. I have worked in the following industries; cryptocurrency, travel, defense, mission-critical, government, and geographic information systems.
 
-I always try/want to be (stay as) an innovative and target-driven engineer. I seek optimal and faster solutions, better quality, follow best practices not just in my career but also in my life. I look for new challenges, goals, responsibilities that can keep me active and fresh in my life. While working with my colleagues, I always try to move/develop/focus together because there can’t be only a single human behind any significant successes.
+Besides my professional career, I have two open-source projects that I love to be working on. As an achievement, I have also one first place and two degrees in two competitions for professionals.
 
 Website:
 https://www.alpcoker.com
