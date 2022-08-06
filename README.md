@@ -7,10 +7,10 @@ I have twelve years of experience and have worked for six companies from start-u
 Besides my professional career, I have two open-source projects that I love to be working on. As an achievement, I have also one first place and two degrees in competitions for professionals.
 
 Website:
-https://www.alpcoker.com
+https://alpcoker.com
 
 Resume:
-https://www.alpcoker.com/Alp_Coker-Resume.pdf
+https://alpcoker.com/Alp_Coker-Resume.pdf
 
 ## 🔨 Skills ( w/ years of experience)
 
