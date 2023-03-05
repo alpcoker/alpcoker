@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alp /ælp/ </h1>
 
-I’m a software and technology enthusiast who loves to be in the center of creating software that is providing value for humanity or makes companies make great profits or makes them efficient. I identify myself as a problem solver who is not a specific tech fanatic. I apply the most optimum solution when and where necessary. I have the most experience as a full-stack engineer who is specialized in backend and infrastructure.
+I’m a software craftsperson who loves to be in the center of creating software that is providing value for humanity or makes companies make great profits or makes them efficient. I always think about creating an impact on existing circumstances. I identify myself as a problem solver who is not a specific tech fanatic. I apply the most optimum solution when and where necessary.
 
-I have twelve years of experience and have worked for six companies from start-ups to big enterprise companies. I have worked in the following industries; cryptocurrency, travel, defense, mission-critical, government, and geographic information systems.
+I have thirteen years of experience and worked for seven companies from start-ups to big enterprise companies. I have worked in the following industries; energy, cryptocurrency, travel, defense, mission-critical, government, and geographic information systems. I have worked on-site, remote and cross continent company environments. I have both experience in synchronous and asynchronous development environments.
 
-Besides my professional career, I have two open-source projects that I love to be working on. As an achievement, I have also one first place and two degrees in competitions for professionals.
+I have two open-source projects that I love to work. As an achievement, I have one first place and two degrees in competitions for professionals.
 
 Website:
 https://alpcoker.com
