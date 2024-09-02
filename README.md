@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alp /ælp/ </h1>
 
-I’m a software craftsperson who loves to be in the center of creating software that is providing value for humanity or makes companies make great profits or makes them efficient. I always think about creating an impact on existing circumstances. I identify myself as a problem solver who is not a specific tech fanatic. I apply the most optimum solution when and where necessary.
+I’m a software craftsperson who loves to be at the center of creating software that provides value for humanity, makes companies more profitable, or increases their efficiency. I always think about creating an impact on existing circumstances. I identify myself as a problem solver rather than a specific tech fanatic. I apply the most optimum solution when and where necessary.
 
-I have thirteen years of experience and worked for seven companies from start-ups to big enterprise companies. I have worked in the following industries; energy, cryptocurrency, travel, defense, mission-critical, government, and geographic information systems. I have worked on-site, remote and cross continent company environments. I have both experience in synchronous and asynchronous development environments.
+I have fourteen years of experience and worked for seven companies from start‑ups to big enterprise companies. I have worked in the following industries; people management solution, cryptocurrency, travel, defense, government, and geographic information systems. I have worked in on‑ site, remote, and cross‑continent company environments. I have both experience in synchronous and asynchronous development environments.
 
-I have two open-source projects that I love to work. As an achievement, I have one first place and two degrees in competitions for professionals.
+I love to work on my open‑source tool for a photo archiving & management tool named [photo-cli](https://photocli.com/). I started development for my personal need to not use any third‑party cloud provider to store all my photo archive. I [open‑source](https://github.com/photo-cli/photo-cli) this tool by targeting [a high quality code](https://sonarcloud.io/summary/overall?id=photo-cli_photo-cli) & [documented it](https://photocli.com/docs/intro-examples/) well.
 
 Website:
 https://alpcoker.com
