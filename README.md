@@ -15,6 +15,7 @@ https://alpcoker.com/Alp_Coker-Resume.pdf
 ## 🔗 Let's Connect!
 
 [![linkedin](https://img.shields.io/badge/alpcoker-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alpcoker/)
+[![superpeer](https://img.shields.io/badge/superpeer-f8c734?style=for-the-badge)](https://keys.openpgp.org/search?q=14542509DA796227457296D61DF4F6273AFC3F5A)
 [![telegram](https://img.shields.io/badge/telegram-f6f6f6?style=for-the-badge&logo=telegram)](https://t.me/alpcoker/)
 [![ask-github-issue](https://img.shields.io/badge/ask_me-000000?style=for-the-badge&logo=github)](https://github.com/alpcoker/alpcoker/issues/)
 [![PGP](https://img.shields.io/badge/alpcoker-9a1c63.svg?&style=for-the-badge&label=PGP)](https://keys.openpgp.org/search?q=14542509DA796227457296D61DF4F6273AFC3F5A)
